@@ -63,7 +63,7 @@ kubectl get service azure-vote-front --watch
 ```
 
 # Kubeshark
-[kubeshark](https://docs.kubeshark.co/en/introduction)
+[kubeshark documentation](https://docs.kubeshark.co/en/introduction)
 
 [tap command](https://docs.kubeshark.co/en/network_sniffing#the-tap-command)
 
